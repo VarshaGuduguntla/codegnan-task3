@@ -1,0 +1,9 @@
+.bground{
+    background-image:url(https://wallpapercave.com/wp/wp2599002.jpg);background-color: black;background-size:cover;min-height: fit-content;
+padding: 20%;
+}
+.bground input,a{
+    margin-left: 35%; padding:1%;border-style: hidden;border-bottom-style: double;border-bottom-color:darkolivegreen;
+}
+.bground button{margin-left: 43%;margin-top: 3%; padding:1%;border-style:double;border-bottom-color:darkolivegreen;}
+h1{color:saddlebrown;margin-left: 39%;}

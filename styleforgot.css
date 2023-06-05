@@ -1,0 +1,6 @@
+.bground{background-image: url(	https://cdn.wallpapersafari.com/26/10/lV9LYT.jpg);background-size:cover;min-height: fit-content;padding: 18%;
+    }
+.bground input,a{
+    margin-left: 35%; padding:1%;border-style: hidden;border-bottom-style: double;border-bottom-color:darkolivegreen;
+    }
+.bground button{margin-left: 39%;margin-top: 3%; padding:1%;border-style: double;border-bottom-color:darkolivegreen;}

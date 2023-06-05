@@ -1,0 +1,7 @@
+h1{color:darkblue;margin-left: 2%;}
+.bground{
+    background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/63/73/MtDBCh.jpg);background-size:cover;min-height:80vh ;
+    }
+.bground input,textarea,select,button{
+     padding:1%;border-style: hidden;border-bottom-style: double;border-bottom-color:darkolivegreen;margin-left: 2%;
+    }
